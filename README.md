@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nithineshwar Reddy Songala 👋</h1>
+<h1 align="center">Hi, I'm Nithin Songala 👋</h1>
 
 <p align="center">
   <em>Data Scientist · ML Engineer · Data & Business Analyst</em><br/>
