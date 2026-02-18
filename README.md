@@ -115,7 +115,7 @@ I'm a graduate student specializing in **Data Science** with a passion for turni
 I'm actively looking for full-time opportunities in **Data Science, ML Engineering, Data Analytics, and Business Analytics** starting **May 2026**. Feel free to reach out!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nithin-songala/"><strong>LinkedIn</strong></a> ·
+  <a href="www.linkedin.com/in/nithin-songala"><strong>LinkedIn</strong></a> ·
   <a href="mailto:reddy.nithin.0331@gmail.com"><strong>Email</strong></a> ·
   <a href="https://YOUR-PORTFOLIO-SITE.com"><strong>Portfolio</strong></a>
 </p>
