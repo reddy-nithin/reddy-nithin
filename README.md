@@ -12,7 +12,7 @@
   <a href="https://YOUR-PORTFOLIO-SITE.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:reddy.nithin.0331@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=reddy.nithin.0331@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -27,7 +27,6 @@ I'm a graduate student specializing in **Data Science** with a passion for turni
 - 🔭 Currently building AI-powered tools in the **healthcare & regulatory** space
 - 🌱 Exploring **LLMs, RAG pipelines**, and **MLOps** practices
 - 🎯 Actively seeking roles in **Data Science · ML Engineering · Data/Business Analytics**
-- 📍 Based in **Kansas City, MO**
 
 ---
 
